@@ -1,10 +1,10 @@
 {
-  "serverName": "Fill server name here",
-  "serverIp": "example.com",
+  "serverName": "GlobalMc",
+  "serverIp": "GlobalMc.mcsh.gg",
   "bedrockPort": 19132,
   "bedrockPlayersCanJoin": true, 
-  "discordLink": "https://discord.gg/S763GafZPR",
-  "logoPath": "logo.jpg",
+  "discordLink": "https://discord.gg/kB7jCgDeFC",
+  "logoPath": "server-logo.png",
   "defaultColour": "red",
-  "_defaultColourHelp": "Choose red, blue, yellow, purple, white, pink, or orange."
+  "_defaultColourHelp": "Choose blue."
 }
